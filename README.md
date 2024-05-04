@@ -1,4 +1,4 @@
-# SFML_VS2022_XMAKE
+# SFML_XMAKE
 This template project serves as a foundational structure for developing applications using Visual Studio as the Integrated Development Environment (IDE), [XMake](https://xmake.io/#/guide/installation) as the build system, and SFML (Simple and Fast Multimedia Library) for graphics and multimedia functionality.
 
 Forked from `JasonJayPower/SFML_VS2022_CMAKE_64-Bit`
