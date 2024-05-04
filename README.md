@@ -9,6 +9,8 @@ Forked from `JasonJayPower/SFML_VS2022_CMAKE_64-Bit`
 - Uses Lua instead of CMake's DSL (Domain Specific Language) for Simpler Syntax
 - Faster git clone for this repository
 
+[Page discussing why to use XMake](https://github.com/xmake-io/xmake/wiki/C-and-Cplusplus-build-system,-I-use-xmake)
+
 ## Information about the following commands
 
 ```xmake``` - Compiles the project
