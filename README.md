@@ -21,5 +21,5 @@ View the `xmake.lua` file for more information about it.
 
 ### Other
 
-[Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=tboox.xmake-vscode)
-[API](https://xmake.io/#/manual/project_target)
+- [Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=tboox.xmake-vscode)
+- [API](https://xmake.io/#/manual/project_target)
