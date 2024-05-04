@@ -5,7 +5,7 @@ Forked from `JasonJayPower/SFML_VS2022_CMAKE_64-Bit`
 
 ## Benefits of XMake compared to CMake
 
-- Package Manager similar to NPM / PIP (Allows you to install any package in xrepo)
+- Package Manager similar to NPM / PIP (Allows you to install any package in [xrepo](https://xrepo.xmake.io/#/))
 - Uses Lua instead of CMake's DSL (Domain Specific Language) for Simpler Syntax
 - Faster git clone for this repository
 
