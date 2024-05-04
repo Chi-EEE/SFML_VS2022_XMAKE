@@ -18,3 +18,8 @@ Forked from `JasonJayPower/SFML_VS2022_CMAKE_64-Bit`
 ```xmake project -k vsxmake``` - Builds the Visual Studio Solution file '.sln'
 
 View the `xmake.lua` file for more information about it.
+
+### Other
+
+[Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=tboox.xmake-vscode)
+[API](https://xmake.io/#/manual/project_target)
